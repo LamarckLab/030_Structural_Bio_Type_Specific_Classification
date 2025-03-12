@@ -1,0 +1,2 @@
+# 030_Structural_Bio_Type_Specific_Classification
+写一个小的NN，用来预测HPV抗体隶属于哪一个亚型
